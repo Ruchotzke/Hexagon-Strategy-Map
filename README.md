@@ -2,7 +2,7 @@
 ### A dynamic mesh generator for hexagon based maps and strategy games written in Unity. Heavily based on a tutorial by Catlike Coding.
 ![animated coastline](https://github.com/Ruchotzke/Hexagon-Strategy-Map/blob/main/doc/coast-animated.gif)
 ## Technologies Used
-- Unity 2020 / C# / CG
+- Unity 2020 / C# / Unity ShaderLab
 
 ## Features
 - A map capable of displaying any hex based map given to it
